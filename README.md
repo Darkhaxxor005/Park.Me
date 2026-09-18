@@ -671,34 +671,15 @@ Edit Cash Values
 
 ---
 
-## GitHub
-
-The project is intended to be stored in a Git repository.
-
-Recommended repository contents:
-
-```text
-src/
-data/areas.txt
-data/initials.txt
-README.md
-.gitignore
-```
-
-Runtime data such as local users, administrator credentials, parking records, fees, and slot state should normally be excluded from a public repository.
-
----
-
-## Group Members
-
-Replace the following table with the actual group information before submission.
+## Group Members and Contributions
 
 | Name | Student ID | Contribution |
 |---|---|---|
-| Member 1 | ID | Contribution |
-| Member 2 | ID | Contribution |
-| Member 3 | ID | Contribution |
-| Member 4 | ID | Contribution |
+| **Indra Das** | 2024100000549 | **Core system development:** overall project structure, authentication and login system, user management, parking entry and checkout logic, data storage and encryption, parking record management, Manage Data Table, record update functionality, validation, and integration of the main system components. |
+| **Shah Alam Khan Saad** | 2024100000539 | **Parking management module:** parking slot management, vehicle-type slot allocation, capacity management, occupied/available slot handling, capacity reduction and vehicle relocation, and integration with parking records. |
+| **Sabrina Tabassum** | 2025000000292 | **Fee and administrative features:** parking fee/cash management, admin menu features, fee validation, and support for administrative settings and system configuration. |
+| **Sanjida Hossain Anny** | 2024100000555 | **Registration and user-interface features:** vehicle registration handling, area and initial selection, registration validation, and supporting Swing UI components and layouts. |
+| **Md Sefat Ullah** | 2024100000558 | **Basic UI and testing support:** assisting with simple Swing interface components, input/output screens, basic testing, bug checking, and documentation/support tasks. |
 
 ---
 
