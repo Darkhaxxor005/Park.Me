@@ -710,6 +710,7 @@ Park.Me currently provides the main functionality of a Smart Parking Management 
 
 ## Academic Project
 
+**Team Name:** Anubis  
 **Project Name:** Park.Me  
 **Project Type:** Smart Parking Management System  
 **Language:** Java  
